@@ -25,7 +25,7 @@ SECRET_KEY = '0m89nm^4fwq#2gm60qmmepm&d9w0h_05l70yt4&hqo+nrp8$!y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'www.lieeber.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.barrylee.top']
 
 
 # Application definition
