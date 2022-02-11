@@ -44,7 +44,7 @@ parsel==1.1.0
 pbr==1.10.0
 Pillow==4.0.0
 pprofile==1.10.0
-protobuf==3.1.0.post1
+protobuf==3.15.0
 py-heat==0.0.1
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
