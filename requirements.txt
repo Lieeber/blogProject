@@ -39,7 +39,7 @@ multidict==3.1.1
 mysql-connector==2.1.4
 numpy==1.11.3
 olefile==0.44
-paramiko==2.1.1
+paramiko==2.10.1
 parsel==1.1.0
 pbr==1.10.0
 Pillow==4.0.0
